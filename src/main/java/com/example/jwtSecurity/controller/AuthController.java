@@ -32,7 +32,7 @@ import lombok.EqualsAndHashCode;
 
 @RestController
 public class AuthController {
-
+// KADE STE DZIKLINJA
 	@Autowired
 	UserRepository userRepo;
 
